@@ -20,7 +20,7 @@ library(mongolite)
 m <- mongo("airbnb", db = "data", url = "mongodb://mongouser:secret@alan.ucdavis.edu/data")
 ```
 
-(a) How many properties are of `room_type == "Entire home/apt"` and number of beds >= 3.
+(a) How many properties are of `room_type == "Entire home/apt"` and number of bedrooms >= 3.
 
 
 
