@@ -37,4 +37,4 @@ m <- mongo("airbnb", db = "data", url = "mongodb://mongouser:secret@alan.ucdavis
 
 
 
-(e) Consider all properties which have more than 100 reviews, what is their average price grouped by property type?
+(e) Consider all properties which have more than 100 reviews, what are their average prices when grouped by property type?
